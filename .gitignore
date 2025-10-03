@@ -1,0 +1,22 @@
+# Environment files with sensitive data
+fastapi_backend/.env
+flutter_frontend/.env
+
+# Flutter/Dart
+flutter_frontend/.dart_tool/
+flutter_frontend/.packages
+flutter_frontend/.pub-cache/
+flutter_frontend/.pub/
+flutter_frontend/build/
+flutter_frontend/.flutter-plugins
+flutter_frontend/.flutter-plugins-dependencies
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
